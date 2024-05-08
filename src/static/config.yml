@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Ivan-Dosev/preact-netlify
   branch: master
 media_folder: src/assets
 public_folder: /assets
